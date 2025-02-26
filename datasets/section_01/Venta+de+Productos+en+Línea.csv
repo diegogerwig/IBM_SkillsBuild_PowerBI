@@ -1,0 +1,145 @@
+Fecha,Código de Producto,Producto,Categoría,Cantidad de unidades,Precio unitario,Monto total
+07/04/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,25,1000,25000
+10/04/24,3002,Aspiradora robot,Hogar y jardín,15,300,4500
+12/04/24,1003,Auriculares inalámbricos,Electrónica y tecnología,10,200,2000
+14/04/24,2005,Gafas de sol,Moda y accesorios,20,200,4000
+17/04/24,1001,Teléfono inteligente,Electrónica y tecnología,30,800,24000
+19/04/24,2004,Reloj de pulsera,Moda y accesorios,5,500,2500
+22/04/24,4003,Perfume para mujer,Belleza y cuidado personal,8,80,640
+25/04/24,1002,Computadora portátil,Electrónica y tecnología,12,1200,14400
+28/04/24,3004,Lámpara de pie,Hogar y jardín,7,80,560
+01/05/24,2003,Bolso de cuero,Moda y accesorios,3,250,750
+03/05/24,4005,Cepillo de dientes eléctrico,Belleza y cuidado personal,6,70,420
+06/05/24,5003,Kayak inflable,Deportes y actividades al aire libre,4,300,1200
+09/05/24,3001,Sofá seccional,Hogar y jardín,2,1000,2000
+12/05/24,1004,Smart TV,Electrónica y tecnología,9,1500,13500
+15/05/24,2002,Zapatillas deportivas,Moda y accesorios,18,120,2160
+18/05/24,5005,Tabla de surf,Deportes y actividades al aire libre,3,500,1500
+02/04/24,2001,Vestido de noche,Moda y accesorios,4,150,600
+04/04/24,1005,Consola de videojuegos,Electrónica y tecnología,18,500,9000
+06/04/24,4002,Paleta de sombras de ojos,Belleza y cuidado personal,9,50,450
+08/04/24,3003,Juego de cuchillos de cocina,Hogar y jardín,6,150,900
+11/04/24,5002,Tienda de campaña,Deportes y actividades al aire libre,10,150,1500
+13/04/24,4004,Secador de cabello profesional,Belleza y cuidado personal,12,100,1200
+15/04/24,2002,Zapatillas deportivas,Moda y accesorios,15,120,1800
+18/04/24,3005,Conjunto de muebles de jardín,Hogar y jardín,3,800,2400
+20/04/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,7,100,700
+23/04/24,1003,Auriculares inalámbricos,Electrónica y tecnología,22,200,4400
+26/04/24,2004,Reloj de pulsera,Moda y accesorios,8,500,4000
+29/04/24,4001,Crema hidratante facial,Belleza y cuidado personal,14,40,560
+02/05/24,1001,Teléfono inteligente,Electrónica y tecnología,28,800,22400
+05/05/24,3004,Lámpara de pie,Hogar y jardín,5,80,400
+08/05/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,35,1000,35000
+11/05/24,4003,Perfume para mujer,Belleza y cuidado personal,10,80,800
+14/05/24,1002,Computadora portátil,Electrónica y tecnología,16,1200,19200
+17/05/24,2005,Gafas de sol,Moda y accesorios,25,200,5000
+20/05/24,3002,Aspiradora robot,Hogar y jardín,20,300,6000
+23/05/24,5003,Kayak inflable,Deportes y actividades al aire libre,6,300,1800
+26/05/24,2001,Vestido de noche,Moda y accesorios,3,150,450
+29/05/24,1005,Consola de videojuegos,Electrónica y tecnología,15,500,7500
+01/06/24,4002,Paleta de sombras de ojos,Belleza y cuidado personal,8,50,400
+04/06/24,3003,Juego de cuchillos de cocina,Hogar y jardín,7,150,1050
+07/06/24,5002,Tienda de campaña,Deportes y actividades al aire libre,12,150,1800
+10/06/24,4004,Secador de cabello profesional,Belleza y cuidado personal,10,100,1000
+13/06/24,2002,Zapatillas deportivas,Moda y accesorios,20,120,2400
+16/06/24,3005,Conjunto de muebles de jardín,Hogar y jardín,4,800,3200
+19/06/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,6,100,600
+22/06/24,1003,Auriculares inalámbricos,Electrónica y tecnología,25,200,5000
+25/06/24,2004,Reloj de pulsera,Moda y accesorios,6,500,3000
+28/06/24,4001,Crema hidratante facial,Belleza y cuidado personal,12,40,480
+02/07/24,1001,Teléfono inteligente,Electrónica y tecnología,30,800,24000
+05/07/24,3004,Lámpara de pie,Hogar y jardín,5,80,400
+08/07/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,28,1000,28000
+11/07/24,4003,Perfume para mujer,Belleza y cuidado personal,8,80,640
+14/07/24,1002,Computadora portátil,Electrónica y tecnología,20,1200,24000
+17/07/24,2005,Gafas de sol,Moda y accesorios,30,200,6000
+20/07/24,3002,Aspiradora robot,Hogar y jardín,18,300,5400
+23/07/24,5003,Kayak inflable,Deportes y actividades al aire libre,4,300,1200
+26/07/24,2003,Bolso de cuero,Moda y accesorios,5,250,1250
+29/07/24,1005,Consola de videojuegos,Electrónica y tecnología,20,500,10000
+01/08/24,4002,Paleta de sombras de ojos,Belleza y cuidado personal,10,50,500
+04/08/24,3003,Juego de cuchillos de cocina,Hogar y jardín,8,150,1200
+07/08/24,5002,Tienda de campaña,Deportes y actividades al aire libre,15,150,2250
+10/08/24,4004,Secador de cabello profesional,Belleza y cuidado personal,15,100,1500
+13/08/24,2002,Zapatillas deportivas,Moda y accesorios,25,120,3000
+16/08/24,3005,Conjunto de muebles de jardín,Hogar y jardín,5,800,4000
+19/08/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,8,100,800
+22/08/24,1003,Auriculares inalámbricos,Electrónica y tecnología,30,200,6000
+25/08/24,2004,Reloj de pulsera,Moda y accesorios,10,500,5000
+28/08/24,4001,Crema hidratante facial,Belleza y cuidado personal,12,40,480
+31/08/24,1001,Teléfono inteligente,Electrónica y tecnología,35,800,28000
+03/09/24,3004,Lámpara de pie,Hogar y jardín,6,80,480
+06/09/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,40,1000,40000
+09/09/24,4003,Perfume para mujer,Belleza y cuidado personal,10,80,800
+12/09/24,1002,Computadora portátil,Electrónica y tecnología,25,1200,30000
+15/09/24,2005,Gafas de sol,Moda y accesorios,35,200,7000
+18/09/24,3002,Aspiradora robot,Hogar y jardín,20,300,6000
+21/09/24,5003,Kayak inflable,Deportes y actividades al aire libre,5,300,1500
+07/05/24,2001,Vestido de noche,Moda y accesorios,3,150,450
+12/05/24,1005,Consola de videojuegos,Electrónica y tecnología,18,500,9000
+19/05/24,4002,Paleta de sombras de ojos,Belleza y cuidado personal,9,50,450
+24/05/24,3003,Juego de cuchillos de cocina,Hogar y jardín,6,150,900
+02/06/24,5002,Tienda de campaña,Deportes y actividades al aire libre,10,150,1500
+08/06/24,4004,Secador de cabello profesional,Belleza y cuidado personal,12,100,1200
+13/06/24,2002,Zapatillas deportivas,Moda y accesorios,15,120,1800
+19/06/24,3005,Conjunto de muebles de jardín,Hogar y jardín,3,800,2400
+26/06/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,7,100,700
+03/07/24,1003,Auriculares inalámbricos,Electrónica y tecnología,22,200,4400
+09/07/24,2004,Reloj de pulsera,Moda y accesorios,8,500,4000
+15/07/24,4001,Crema hidratante facial,Belleza y cuidado personal,14,40,560
+21/07/24,1001,Teléfono inteligente,Electrónica y tecnología,28,800,22400
+26/07/24,3004,Lámpara de pie,Hogar y jardín,5,80,400
+02/08/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,35,1000,35000
+08/08/24,4003,Perfume para mujer,Belleza y cuidado personal,10,80,800
+14/08/24,1002,Computadora portátil,Electrónica y tecnología,16,1200,19200
+20/08/24,2005,Gafas de sol,Moda y accesorios,25,200,5000
+26/08/24,3002,Aspiradora robot,Hogar y jardín,20,300,6000
+01/09/24,5003,Kayak inflable,Deportes y actividades al aire libre,6,300,1800
+09/04/24,3004,Lámpara de pie,Hogar y jardín,7,80,560
+15/04/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,40,1000,40000
+21/04/24,4003,Perfume para mujer,Belleza y cuidado personal,12,80,960
+26/04/24,1002,Computadora portátil,Electrónica y tecnología,20,1200,24000
+02/05/24,2005,Gafas de sol,Moda y accesorios,30,200,6000
+08/05/24,3002,Aspiradora robot,Hogar y jardín,18,300,5400
+14/05/24,5003,Kayak inflable,Deportes y actividades al aire libre,5,300,1500
+20/05/24,1001,Teléfono inteligente,Electrónica y tecnología,35,800,28000
+26/05/24,2004,Reloj de pulsera,Moda y accesorios,10,500,5000
+01/06/24,4001,Crema hidratante facial,Belleza y cuidado personal,14,40,560
+07/06/24,1005,Consola de videojuegos,Electrónica y tecnología,20,500,10000
+13/06/24,2001,Vestido de noche,Moda y accesorios,3,150,450
+19/06/24,3003,Juego de cuchillos de cocina,Hogar y jardín,8,150,1200
+24/06/24,5002,Tienda de campaña,Deportes y actividades al aire libre,15,150,2250
+30/06/24,4004,Secador de cabello profesional,Belleza y cuidado personal,15,100,1500
+06/07/24,2002,Zapatillas deportivas,Moda y accesorios,25,120,3000
+12/07/24,3005,Conjunto de muebles de jardín,Hogar y jardín,5,800,4000
+17/07/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,8,100,800
+23/07/24,1003,Auriculares inalámbricos,Electrónica y tecnología,30,200,6000
+29/07/24,2005,Gafas de sol,Moda y accesorios,15,200,3000
+04/08/24,4002,Paleta de sombras de ojos,Belleza y cuidado personal,9,50,450
+10/08/24,5003,Kayak inflable,Deportes y actividades al aire libre,6,300,1800
+16/08/24,1002,Computadora portátil,Electrónica y tecnología,25,1200,30000
+22/08/24,2003,Bolso de cuero,Moda y accesorios,5,250,1250
+03/04/24,2004,Reloj de pulsera,Moda y accesorios,5,500,2500
+09/04/24,3003,Juego de cuchillos de cocina,Hogar y jardín,6,150,900
+15/04/24,5002,Tienda de campaña,Deportes y actividades al aire libre,10,150,1500
+21/04/24,4004,Secador de cabello profesional,Belleza y cuidado personal,12,100,1200
+27/04/24,1003,Auriculares inalámbricos,Electrónica y tecnología,22,200,4400
+03/05/24,2005,Gafas de sol,Moda y accesorios,20,200,4000
+09/05/24,3002,Aspiradora robot,Hogar y jardín,15,300,4500
+15/05/24,5003,Kayak inflable,Deportes y actividades al aire libre,4,300,1200
+21/05/24,1001,Teléfono inteligente,Electrónica y tecnología,28,800,22400
+27/05/24,2002,Zapatillas deportivas,Moda y accesorios,18,120,2160
+02/06/24,3005,Conjunto de muebles de jardín,Hogar y jardín,3,800,2400
+08/06/24,5004,Raqueta de tenis,Deportes y actividades al aire libre,6,100,600
+14/06/24,1002,Computadora portátil,Electrónica y tecnología,16,1200,19200
+20/06/24,2003,Bolso de cuero,Moda y accesorios,4,250,1000
+26/06/24,3004,Lámpara de pie,Hogar y jardín,7,80,560
+02/07/24,5001,Bicicleta de montaña,Deportes y actividades al aire libre,30,1000,30000
+08/07/24,4003,Perfume para mujer,Belleza y cuidado personal,10,80,800
+14/07/24,1005,Consola de videojuegos,Electrónica y tecnología,18,500,9000
+20/07/24,2001,Vestido de noche,Moda y accesorios,3,150,450
+26/07/24,3003,Juego de cuchillos de cocina,Hogar y jardín,6,150,900
+01/08/24,5002,Tienda de campaña,Deportes y actividades al aire libre,10,150,1500
+07/08/24,4004,Secador de cabello profesional,Belleza y cuidado personal,12,100,1200
+13/08/24,1003,Auriculares inalámbricos,Electrónica y tecnología,22,200,4400
+19/08/24,2005,Gafas de sol,Moda y accesorios,20,200,4000

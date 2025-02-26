@@ -1,0 +1,23 @@
+PREGUNTA 1
+----------
+¿Cuál fue el mes con la mayor cantidad de ventas en unidades de productos? ¿Y cuál fue el mes con la menor cantidad?
+
+PREGUNTA 2
+----------
+¿Cuál fue el mes con la mayor facturación? ¿Y el de menor facturación?
+
+PREGUNTA 3
+----------
+¿Cuáles son los 3 productos con la mayor cantidad de unidades vendidas durante todo el periodo?
+
+PREGUNTA 4
+----------
+En el mes de julio, ¿cuántas unidades de auriculares inalámbricos se vendieron? ¿Qué porcentaje representan del total de unidades vendidas de todos los productos en ese mes?
+
+PREGUNTA 5
+----------
+¿Cómo estuvieron compuestas las ventas de productos de belleza y cuidado personal en el mes de julio? ¿Y en todo el periodo analizado?
+
+PREGUNTA 6
+----------
+¿Qué tendencia muestra la facturación de los productos de "Hogar y jardín" durante todo el periodo analizado?
