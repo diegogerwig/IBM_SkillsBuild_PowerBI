@@ -1,0 +1,169 @@
+Fecha,Operación,Propiedad,Ciudad,Precio (USD)
+1/11/2023,Venta,Casa,París,500000
+5/11/2023,Alquiler,Apartamento,Londres,2000
+10/11/2023,Venta,Local comercial,Berlín,300000
+15/11/2023,Alquiler,Apartamento,Barcelona,1800
+20/11/2023,Venta,Casa,Roma,450000
+25/11/2023,Alquiler,Apartamento,Ámsterdam,2200
+1/12/2023,Alquiler,Casa,Londres,4500
+5/12/2023,Venta,Apartamento,París,250000
+10/12/2023,Venta,Local comercial,Madrid,200000
+15/12/2023,Alquiler,Apartamento,Berlín,1600
+20/12/2023,Alquiler,Casa,Barcelona,5000
+25/12/2023,Venta,Apartamento,Roma,350000
+1/1/2024,Venta,Casa,Londres,600000
+5/1/2024,Alquiler,Apartamento,París,2400
+10/1/2024,Venta,Local comercial,Madrid,180000
+1/11/2023,Venta,Casa,París,500000
+5/11/2023,Alquiler,Apartamento,Londres,2000
+10/11/2023,Venta,Local comercial,Berlín,300000
+15/11/2023,Alquiler,Apartamento,Barcelona,1800
+20/11/2023,Venta,Casa,Roma,450000
+25/11/2023,Alquiler,Apartamento,Ámsterdam,2200
+1/12/2023,Alquiler,Casa,Londres,4500
+5/12/2023,Venta,Apartamento,París,250000
+10/12/2023,Venta,Local comercial,Madrid,200000
+15/12/2023,Alquiler,Apartamento,Berlín,1600
+20/12/2023,Alquiler,Casa,Barcelona,5000
+25/12/2023,Venta,Apartamento,Roma,350000
+1/1/2024,Venta,Casa,Londres,600000
+5/1/2024,Alquiler,Apartamento,París,2400
+10/1/2024,Venta,Local comercial,Madrid,180000
+15/02/2024,Alquiler,Apartamento,Berlín,1700
+20/02/2024,Venta,Casa,Ámsterdam,480000
+25/02/2024,Venta,Apartamento,Barcelona,280000
+1/3/2024,Alquiler,Apartamento,Roma,2300
+5/3/2024,Venta,Casa,Londres,520000
+10/3/2024,Venta,Local comercial,París,320000
+15/03/2024,Alquiler,Apartamento,Madrid,1900
+20/03/2024,Alquiler,Casa,Berlín,5500
+25/03/2024,Venta,Apartamento,Ámsterdam,380000
+1/4/2024,Venta,Casa,Barcelona,650000
+5/4/2024,Alquiler,Apartamento,Roma,2500
+10/4/2024,Venta,Local comercial,Londres,220000
+15/04/2024,Venta,Apartamento,París,260000
+20/04/2024,Alquiler,Apartamento,Madrid,2000
+25/04/2024,Alquiler,Casa,Berlín,6000
+1/5/2024,Venta,Apartamento,Ámsterdam,320000
+5/5/2024,Alquiler,Casa,Barcelona,4800
+10/5/2024,Alquiler,Apartamento,Roma,2700
+15/05/2024,Venta,Casa,Londres,550000
+20/05/2024,Venta,Local comercial,París,240000
+25/05/2024,Alquiler,Apartamento,Madrid,2100
+1/6/2024,Venta,Casa,Berlín,520000
+5/6/2024,Alquiler,Apartamento,Ámsterdam,2300
+10/6/2024,Venta,Apartamento,Barcelona,290000
+1/11/2023,Alquiler,Apartamento,Londres,2100
+5/11/2023,Venta,Local comercial,Berlín,280000
+10/11/2023,Venta,Casa,Ámsterdam,560000
+15/11/2023,Alquiler,Apartamento,París,1900
+20/11/2023,Venta,Apartamento,Barcelona,320000
+25/11/2023,Venta,Casa,Roma,480000
+1/12/2023,Alquiler,Casa,Londres,4100
+5/12/2023,Alquiler,Apartamento,París,2300
+10/12/2023,Venta,Local comercial,Madrid,180000
+15/12/2023,Venta,Apartamento,Ámsterdam,380000
+20/12/2023,Alquiler,Apartamento,Roma,2600
+25/12/2023,Venta,Casa,Londres,620000
+1/1/2024,Venta,Apartamento,París,250000
+5/1/2024,Alquiler,Apartamento,Madrid,2000
+10/1/2024,Venta,Local comercial,Berlín,210000
+15/02/2024,Alquiler,Apartamento,Barcelona,1700
+20/02/2024,Venta,Casa,Ámsterdam,450000
+25/02/2024,Venta,Apartamento,Roma,320000
+1/3/2024,Alquiler,Apartamento,París,2100
+5/3/2024,Venta,Casa,Londres,530000
+10/3/2024,Alquiler,Local comercial,Berlín,3500
+15/03/2024,Alquiler,Apartamento,Madrid,1900
+20/03/2024,Venta,Casa,Barcelona,650000
+25/03/2024,Venta,Apartamento,Ámsterdam,380000
+1/4/2024,Venta,Apartamento,Roma,260000
+5/4/2024,Alquiler,Apartamento,Londres,2000
+10/4/2024,Venta,Local comercial,París,220000
+15/04/2024,Alquiler,Apartamento,Berlín,1700
+20/04/2024,Venta,Apartamento,Ámsterdam,340000
+25/04/2024,Venta,Casa,Roma,550000
+1/5/2024,Venta,Apartamento,Barcelona,290000
+5/5/2024,Alquiler,Apartamento,Londres,2200
+10/5/2024,Alquiler,Casa,Madrid,3800
+15/05/2024,Venta,Casa,Londres,590000
+20/05/2024,Alquiler,Apartamento,París,2400
+25/05/2024,Alquiler,Apartamento,Berlín,1800
+1/6/2024,Venta,Local comercial,Ámsterdam,250000
+5/6/2024,Venta,Casa,Roma,520000
+1/11/2023,Venta,Casa,Barcelona,720000
+5/11/2023,Alquiler,Apartamento,Roma,2700
+10/11/2023,Venta,Local comercial,Ámsterdam,350000
+15/11/2023,Alquiler,Apartamento,Londres,1900
+20/11/2023,Venta,Apartamento,París,290000
+25/11/2023,Venta,Casa,Berlín,540000
+1/12/2023,Alquiler,Casa,Madrid,4200
+5/12/2023,Venta,Apartamento,Ámsterdam,310000
+10/12/2023,Venta,Local comercial,Roma,190000
+15/12/2023,Alquiler,Apartamento,Barcelona,2000
+20/12/2023,Alquiler,Casa,Londres,4300
+25/12/2023,Venta,Apartamento,París,270000
+1/1/2024,Venta,Casa,Berlín,610000
+5/1/2024,Alquiler,Apartamento,Madrid,2200
+10/1/2024,Venta,Local comercial,Ámsterdam,230000
+15/02/2024,Alquiler,Apartamento,Londres,1800
+20/02/2024,Venta,Casa,Barcelona,480000
+25/02/2024,Venta,Apartamento,Roma,320000
+1/3/2024,Alquiler,Apartamento,París,2000
+5/3/2024,Venta,Casa,Berlín,530000
+10/3/2024,Alquiler,Local comercial,Ámsterdam,3600
+15/03/2024,Alquiler,Apartamento,Madrid,1800
+20/03/2024,Venta,Casa,Barcelona,680000
+25/03/2024,Venta,Apartamento,París,340000
+1/4/2024,Venta,Apartamento,Roma,280000
+5/4/2024,Alquiler,Apartamento,Londres,2100
+10/4/2024,Venta,Local comercial,Madrid,190000
+15/04/2024,Alquiler,Apartamento,Berlín,1600
+20/04/2024,Venta,Apartamento,Ámsterdam,330000
+25/04/2024,Venta,Casa,Barcelona,590000
+1/5/2024,Venta,Apartamento,París,300000
+5/5/2024,Alquiler,Apartamento,Londres,2300
+10/5/2024,Alquiler,Casa,Madrid,3800
+15/05/2024,Venta,Casa,Londres,610000
+20/05/2024,Alquiler,Apartamento,París,2400
+25/05/2024,Alquiler,Apartamento,Berlín,1900
+1/6/2024,Venta,Local comercial,Ámsterdam,260000
+5/6/2024,Venta,Casa,Roma,550000
+1/11/2023,Venta,Apartamento,Londres,280000
+5/11/2023,Alquiler,Apartamento,París,2000
+10/11/2023,Venta,Casa,Ámsterdam,620000
+15/11/2023,Alquiler,Apartamento,Madrid,1800
+20/11/2023,Venta,Apartamento,Berlín,350000
+25/11/2023,Venta,Casa,Roma,550000
+1/12/2023,Alquiler,Casa,Barcelona,4500
+5/12/2023,Venta,Apartamento,París,290000
+10/12/2023,Venta,Local comercial,Londres,220000
+15/12/2023,Alquiler,Apartamento,Berlín,1700
+20/12/2023,Alquiler,Casa,Ámsterdam,4600
+25/12/2023,Venta,Apartamento,Roma,320000
+1/1/2024,Venta,Casa,Londres,640000
+5/1/2024,Alquiler,Apartamento,París,2400
+10/1/2024,Venta,Local comercial,Madrid,200000
+15/02/2024,Alquiler,Apartamento,Berlín,1600
+20/02/2024,Venta,Casa,Ámsterdam,480000
+25/02/2024,Venta,Apartamento,Barcelona,330000
+1/3/2024,Alquiler,Apartamento,Roma,2200
+5/3/2024,Venta,Casa,Londres,570000
+10/3/2024,Alquiler,Local comercial,París,3500
+15/03/2024,Alquiler,Apartamento,Madrid,1900
+20/03/2024,Venta,Casa,Barcelona,670000
+25/03/2024,Venta,Apartamento,Ámsterdam,390000
+1/4/2024,Venta,Apartamento,Roma,250000
+5/4/2024,Alquiler,Apartamento,Londres,2100
+10/4/2024,Venta,Local comercial,Madrid,180000
+15/04/2024,Alquiler,Apartamento,Berlín,1700
+20/04/2024,Venta,Apartamento,Ámsterdam,360000
+25/04/2024,Venta,Casa,Barcelona,630000
+1/5/2024,Venta,Apartamento,París,300000
+5/5/2024,Alquiler,Apartamento,Londres,2300
+10/5/2024,Alquiler,Casa,Madrid,3800
+15/05/2024,Venta,Casa,Londres,590000
+20/05/2024,Alquiler,Apartamento,París,2400
+25/05/2024,Alquiler,Apartamento,Berlín,1900
+1/6/2024,Venta,Local comercial,Ámsterdam,250000
+5/6/2024,Venta,Casa,Roma,520000
