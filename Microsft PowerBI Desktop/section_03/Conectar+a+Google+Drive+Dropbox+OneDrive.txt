@@ -1,0 +1,37 @@
+ - - - - - - Cargar desde Google Drive (Sheets) - - - - - - 
+
+Generar enlace publico
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vScBbVwNY9hW-FyCwGpPPXcya_B5wW6sfNjUQqtQ-yNXkZs9HTDqzw_b7WF814knupqCnI6uNGrL6NS/pub?output=xlsx
+
+
+
+ - - - - - - Cargar desde Dropbox (personal) - - - - - - 
+
+https://www.dropbox.com/s/e036miz85schuoc/FotosAgentes.xlsx?dl=0
+
+Cambiar www por dl
+
+https://dl.dropbox.com/s/e036miz85schuoc/FotosAgentes.xlsx?dl=0
+
+
+
+ - - - - - - Cargar desde OneDrive (personal) - - - - - - 
+
+Agregar download? entre .com/ y resid
+Agregar al final: &app=Excel
+
+https://onedrive.live.com/download?resid=28D459BB9EA384FD%21691&authkey=AJRJnm8EnYosCCY&em=2&app=Excel
+
+
+
+ - - - - - - Cargar desde OneDrive (Business) - - - - - - 
+
+1) Ruta de enlace:
+https://docs.microsoft.com/es-es/power-bi/connect-data/desktop-use-onedrive-business-links
+https://www.youtube.com/watch?v=t4TzHu8THoA
+
+
+2) Carpeta de Sharepoint:
+https://www.poweredsolutions.co/es/2019/04/04/conectar-a-archivos-en-sharepoint-y-onedrive-con-power-bi-power-query/
+https://www.youtube.com/watch?v=cxRacjMb47I
