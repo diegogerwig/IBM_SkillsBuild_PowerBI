@@ -1,6 +1,7 @@
 example*
 **/*Liqux*
 **/*.pbix
+!**/*gerwig.pbix
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
