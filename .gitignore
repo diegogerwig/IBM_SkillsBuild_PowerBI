@@ -3,6 +3,8 @@ example*
 **/*.pbix
 !**/*gerwig.pbix
 
+entrega.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
